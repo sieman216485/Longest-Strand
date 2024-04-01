@@ -29,7 +29,7 @@ Build using the Makefile.
 ```bash
 make
 ```
-Run to view test code.
+Run to view testing result.
 ```
 ./LongestStrand
 ```
